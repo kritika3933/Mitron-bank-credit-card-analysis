@@ -64,6 +64,8 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 📊 Income Utilization Analysis
 
 
+<img width="1299" height="720" alt="Image" src="https://github.com/user-attachments/assets/b26ce145-e03d-466c-94ec-6ad70a6aa4a8" />
+
 
 • Monthly income utilization trend
 
