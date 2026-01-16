@@ -128,9 +128,9 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 📧 Email: kritikasingh3933@gmail.com
 
-💼 LinkedIn: 
+💼 LinkedIn: www.linkedin.com/in/kritika-singh-713398389
 
-📂 GitHub: 
+
 
 
 
