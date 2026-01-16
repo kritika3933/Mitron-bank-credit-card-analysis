@@ -5,7 +5,9 @@
 An end-to-end Power BI analytics project that analyzes customer demographics, income patterns, and spending behavior for Mitron Bank.
 Built to simulate a real-world banking analytics use case, this dashboard helps stakeholders identify high-value customer segments, spending trends, and income utilization risks.
 
+
 🔍 Focus Areas: Banking Analytics | Business Intelligence | Customer Insights | Data Visualization
+
 
 🧠 What This Project Demonstrates (Recruiter View)
 
@@ -15,7 +17,9 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 ✅ Financial & customer analytics
 ✅ Insight storytelling for stakeholders
 
+
 🛠️ Tech Stack
+
 
 📊 Power BI – Data modeling, DAX measures, interactive dashboards
 
@@ -25,9 +29,13 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 🎨 Data Visualization & UX Principles – Clean layout, color consistency, insight-driven visuals
 
+
 📈 Dashboard Breakdown
 
+
+
 👥 Demographic Analysis
+
 
 
 
@@ -64,6 +72,7 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 🔑 Key Business Insights
 
+
 • 25–34 age group represents the largest customer base 👥
 
 • Salaried IT employees show the highest income utilization %
@@ -77,6 +86,7 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 💡 Impact & Value
 
+
 ✔ Enables banks to identify high-risk over-spending segments
 
 ✔ Helps optimize credit & product targeting strategies
@@ -85,6 +95,7 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 
 🌐 Connect With Me
+
 
 📧 Email: kritikasingh3933@gmail.com
 
