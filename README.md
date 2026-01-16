@@ -1,14 +1,16 @@
 # 📊 Mitron Bank Analytics | Customer Demographics & Spending Insights (Power BI)
 
-🚀 Project Summary
+👋 Project Introduction
 
-An end-to-end Power BI analytics project that analyzes customer demographics, income patterns, and spending behavior for Mitron Bank.
-Built to simulate a real-world banking analytics use case, this dashboard helps stakeholders identify high-value customer segments, spending trends, and income utilization risks.
+
+This project presents a Power BI–driven analytics solution focused on understanding customer demographics, income behavior, and spending patterns for Mitron Bank.
+It was developed as part of the Codebasics Resume Project Challenge, simulating a real-world banking analytics scenario 🚀
 
 
 
 
 🔍 Focus Areas: Banking Analytics | Business Intelligence | Customer Insights | Data Visualization
+
 
 
 🔗 **Live Power BI Dashboard:**  
@@ -18,15 +20,12 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 
 
-🧠 What This Project Demonstrates 
+🏦 Project Overview
 
 
+Mitron Bank aims to strengthen its credit card and financial strategy by gaining deeper insights into customer behavior 💳📈
 
-✅ Business problem understanding
-✅ Data modeling & DAX proficiency
-✅ KPI-driven dashboard design
-✅ Financial & customer analytics
-✅ Insight storytelling for stakeholders
+Using real-world styled data of 4,000 customers, this project converts raw financial data into clear, actionable insights through interactive and intuitive Power BI dashboards, enabling better strategic decision-making.
 
 
 
@@ -42,82 +41,42 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 🎨 Data Visualization & UX Principles – Clean layout, color consistency, insight-driven visuals
 
 
-📈 Dashboard Breakdown
+
+📊 Insight Discovery
+
+A detailed exploration of customer demographics, spending behavior, and segmentation revealed meaningful trends across cities, occupations, and age groups.
+
+These insights play a critical role in identifying high-value customer segments and understanding how customers interact with financial products, enabling more informed and strategic business decisions.
 
 
 
 
-👥 Demographic Analysis
+💡 Key Findings
 
 
 
-• Customer segmentation by Age, Gender, Marital Status
+💳 Credit cards are the most preferred payment method among customers
 
-• Average income comparison across demographics
+🛒 Major spending categories include Bills, Groceries, Electronics, and Health & Wellness
 
-• City-wise customer distribution & income trends
+👨‍👩‍👦‍👦 Male and married customers contribute the most to overall spending
 
+👨‍💼👩‍💼 The 25–35 and 35–45 age groups show the highest spending patterns
 
+🏙️ Mumbai emerges as the top spending city
 
-💸 Spending Behavior Analysis
-
-
-
-
-• Category-wise spend analysis (Bills, Groceries, Travel, etc.)
-
-• Spend vs Income utilization comparison
-
-• Occupation & payment type impact on spending
-
-
-📊 Income Utilization Analysis
+💼💻 Salaried IT Employees and Other Salaried Professionals drive the majority of transactions
 
 
 
+✅ Conclusion
 
+This project highlights how customer-level financial data can be transformed into powerful business insights using Power BI.
 
+By combining data modeling, visualization, and analytical thinking, the dashboard supports smarter credit card strategies, better customer targeting, and data-driven financial decisions—making it a strong example of real-world banking analytics 
 
-• Monthly income utilization trend
+in action 🚀📊
 
-• Utilization by Occupation, City, Gender
-
-• Income vs Monthly Spend by Age Group
-
-
-
-
-🔑 Key Business Insights
-
-
-• 25–34 age group represents the largest customer base 👥
-
-
-• Salaried IT employees show the highest income utilization %
-
-
-• Mumbai & Delhi NCR generate the highest total spend 🏙️
-
-
-• Business owners earn more but utilize income more conservatively
-
-
-• Bills & Groceries dominate customer spending categories
-
-
-
-💡 Impact & Value
-
-
-
-
-✔ Enables banks to identify high-risk over-spending segments
-
-
-✔ Helps optimize credit & product targeting strategies
-
-
-✔ Supports data-driven decision-making in retail banking
 
 
 
