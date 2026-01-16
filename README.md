@@ -39,10 +39,6 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 
 
-<img width="1292" height="713" alt="Image" src="https://github.com/user-attachments/assets/5b6b45fb-7c8d-44c7-a1b4-434539d34a21" />
-
-
-
 • Customer segmentation by Age, Gender, Marital Status
 
 • Average income comparison across demographics
@@ -50,7 +46,9 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 • City-wise customer distribution & income trends
 
 
+
 💸 Spending Behavior Analysis
+
 
 
 
@@ -62,6 +60,8 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 
 📊 Income Utilization Analysis
+
+
 
 
 
@@ -80,26 +80,38 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 • 25–34 age group represents the largest customer base 👥
 
+
 • Salaried IT employees show the highest income utilization %
+
 
 • Mumbai & Delhi NCR generate the highest total spend 🏙️
 
+
 • Business owners earn more but utilize income more conservatively
 
+
 • Bills & Groceries dominate customer spending categories
+
 
 
 💡 Impact & Value
 
 
+
+
 ✔ Enables banks to identify high-risk over-spending segments
 
+
 ✔ Helps optimize credit & product targeting strategies
+
 
 ✔ Supports data-driven decision-making in retail banking
 
 
+
+
 🌐 Connect With Me
+
 
 
 📧 Email: kritikasingh3933@gmail.com
