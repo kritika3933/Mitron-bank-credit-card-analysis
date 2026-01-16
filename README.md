@@ -6,16 +6,28 @@ An end-to-end Power BI analytics project that analyzes customer demographics, in
 Built to simulate a real-world banking analytics use case, this dashboard helps stakeholders identify high-value customer segments, spending trends, and income utilization risks.
 
 
+
+
 🔍 Focus Areas: Banking Analytics | Business Intelligence | Customer Insights | Data Visualization
 
 
-🧠 What This Project Demonstrates (Recruiter View)
+🔗 **Live Power BI Dashboard:**  
+👉 [View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiY2Q4Y2E5ODctZmUxMy00NTY3LTk3ZjctNGViMjRiMzgyMWMzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
+
+
+🧠 What This Project Demonstrates 
+
+
 
 ✅ Business problem understanding
 ✅ Data modeling & DAX proficiency
 ✅ KPI-driven dashboard design
 ✅ Financial & customer analytics
 ✅ Insight storytelling for stakeholders
+
 
 
 🛠️ Tech Stack
