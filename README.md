@@ -34,8 +34,12 @@ Built to simulate a real-world banking analytics use case, this dashboard helps 
 
 
 
+
 👥 Demographic Analysis
 
+
+
+<img width="1292" height="713" alt="Image" src="https://github.com/user-attachments/assets/5b6b45fb-7c8d-44c7-a1b4-434539d34a21" />
 
 
 
